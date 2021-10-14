@@ -27,3 +27,5 @@ test.target.com
 ```
 - Run:
  ``` ./get-graphql.sh target.txt ```
+
+template cc : github.com/panch0r3d
